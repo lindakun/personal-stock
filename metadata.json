@@ -1,0 +1,8 @@
+{
+  "name": "Remix 观潮·个人股票行情推演台",
+  "description": "集自选股行情追踪、K线技术图表、多阶段情景推演、蒙特卡洛概率预测与沙盘交易回放于一体的个人股票行情推演工具。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
